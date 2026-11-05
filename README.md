@@ -1,20 +1,15 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Reset Portfolio
 
-# Run and deploy your AI Studio app
+**Portfolio ficticio** creado como parte de la entrega de mi tesis. La aplicación está construida con React + Vite y presenta:
 
-This contains everything you need to run your app locally.
+- **Scroll magnético** que lleva al usuario suavemente al último frame de la sección *Mis trabajos*.
+- **Efecto "paper‑noise"** en cada partícula, simulando una textura de papel de bajo‑frame.
+- **Animaciones de ondas** en un fondo blanco mediante puntos que replican la física de ondas.
+- **Secuencia de estudio** con 100 frames que avanza automáticamente al final del scroll.
 
-View your app in AI Studio: https://ai.studio/apps/85c3e7c4-3898-4498-9ac7-a64d3fb87b29
+La web está hosteada en Netlify y se puede visitar aquí:
 
-## Run Locally
+https://extraordinary-rabanadas-48ff28.netlify.app/
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+*Este repositorio contiene todo el código fuente, assets y configuraciones necesarios para ejecutar el portfolio localmente.*
