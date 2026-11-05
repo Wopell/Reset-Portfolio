@@ -1,0 +1,6 @@
+{
+  "name": "RESET Studio Portfolio",
+  "description": "Bilingual brand portfolio landing page for RESET, a multimedia studio from Buenos Aires, Argentina, featuring a bold, maximalist grunge/collage aesthetic with rich brand palettes and custom interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
